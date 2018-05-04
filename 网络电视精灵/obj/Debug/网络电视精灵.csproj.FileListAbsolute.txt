@@ -1,0 +1,9 @@
+c:\users\12604\documents\visual studio 2012\Projects\网络电视精灵\网络电视精灵\bin\Debug\网络电视精灵.exe.config
+c:\users\12604\documents\visual studio 2012\Projects\网络电视精灵\网络电视精灵\bin\Debug\网络电视精灵.exe
+c:\users\12604\documents\visual studio 2012\Projects\网络电视精灵\网络电视精灵\bin\Debug\网络电视精灵.pdb
+c:\users\12604\documents\visual studio 2012\Projects\网络电视精灵\网络电视精灵\obj\Debug\网络电视精灵.frmMian.resources
+c:\users\12604\documents\visual studio 2012\Projects\网络电视精灵\网络电视精灵\obj\Debug\网络电视精灵.Properties.Resources.resources
+c:\users\12604\documents\visual studio 2012\Projects\网络电视精灵\网络电视精灵\obj\Debug\网络电视精灵.csproj.GenerateResource.Cache
+c:\users\12604\documents\visual studio 2012\Projects\网络电视精灵\网络电视精灵\obj\Debug\网络电视精灵.exe
+c:\users\12604\documents\visual studio 2012\Projects\网络电视精灵\网络电视精灵\obj\Debug\网络电视精灵.pdb
+C:\Users\12604\documents\visual studio 2012\Projects\网络电视精灵\网络电视精灵\obj\Debug\网络电视精灵.csprojResolveAssemblyReference.cache
