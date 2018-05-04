@@ -1,0 +1,9 @@
+c:\users\12604\documents\visual studio 2012\Projects\影院售票系统\影院售票系统\bin\Debug\影院售票系统.exe.config
+C:\Users\12604\documents\visual studio 2012\Projects\影院售票系统\影院售票系统\bin\Debug\影院售票系统.exe
+C:\Users\12604\documents\visual studio 2012\Projects\影院售票系统\影院售票系统\bin\Debug\影院售票系统.pdb
+C:\Users\12604\documents\visual studio 2012\Projects\影院售票系统\影院售票系统\obj\Debug\影院售票系统.csprojResolveAssemblyReference.cache
+C:\Users\12604\documents\visual studio 2012\Projects\影院售票系统\影院售票系统\obj\Debug\影院售票系统.frmMain.resources
+C:\Users\12604\documents\visual studio 2012\Projects\影院售票系统\影院售票系统\obj\Debug\影院售票系统.Properties.Resources.resources
+C:\Users\12604\documents\visual studio 2012\Projects\影院售票系统\影院售票系统\obj\Debug\影院售票系统.csproj.GenerateResource.Cache
+C:\Users\12604\documents\visual studio 2012\Projects\影院售票系统\影院售票系统\obj\Debug\影院售票系统.exe
+C:\Users\12604\documents\visual studio 2012\Projects\影院售票系统\影院售票系统\obj\Debug\影院售票系统.pdb
